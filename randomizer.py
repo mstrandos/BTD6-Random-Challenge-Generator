@@ -1,6 +1,9 @@
 from random import *
 
-Heroes = ["Gwendolyn", "Striker Jones", "No"]
+#Towers
+Heroes = ["Quincy", "Gwendolyn", "Striker Jones", "Obyn Greenfoot", "Captain Churchill", "Benjamin"]
+Primary = ["Dart Monkey", "Boomerang Monkey", "Bomb Shooter"]
+
 
 print(Heroes[randint(0, 2)])
 
